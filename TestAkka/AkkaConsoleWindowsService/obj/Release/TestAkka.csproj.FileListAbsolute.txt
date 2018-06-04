@@ -1,0 +1,14 @@
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\DummyTestData\SomeData.csv
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\TestAkka.exe.config
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\TestAkka.exe
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\TestAkka.pdb
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Akka.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Newtonsoft.Json.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Owin.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\System.Collections.Immutable.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Topshelf.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Akka.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\Newtonsoft.Json.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\bin\Release\System.Collections.Immutable.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\obj\Release\TestAkka.exe
+C:\MyProgramWorkspace\dotnet\TestAkka\TestAkka\obj\Release\TestAkka.pdb

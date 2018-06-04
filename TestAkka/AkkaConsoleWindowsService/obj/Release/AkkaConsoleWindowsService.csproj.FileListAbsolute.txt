@@ -1,0 +1,14 @@
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\TestAkka.exe.config
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\obj\Release\TestAkka.exe
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\obj\Release\TestAkka.pdb
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\DummyTestData\SomeData.csv
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\TestAkka.exe
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\TestAkka.pdb
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\Akka.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\Newtonsoft.Json.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\System.Collections.Immutable.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\Topshelf.dll
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\Akka.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\Newtonsoft.Json.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\bin\Release\System.Collections.Immutable.xml
+C:\MyProgramWorkspace\dotnet\TestAkka\AkkaConsoleWindowsService\obj\Release\AkkaConsoleWindowsService.csprojResolveAssemblyReference.cache
