@@ -18,14 +18,3 @@ https://github.com/Horusiath/Akka.Persistence.Reminders
 https://github.com/EdwinVW/akka.net-warehouse-sample
 
 https://www.c-sharpcorner.com/UploadFile/b1df45/Asp-Net-web-api-self-hosting/
-
-
-Bad -Install-Package Microsoft.AspNet.WebApi.Client -Version 4.0.20710 
-
-Microsoft.AspNet.WebApi.Core.4.0.30506
-Microsoft.AspNet.WebApi.SelfHost 4.0.30506
-
-
-Microsoft.AspNet.WebApi.Core 5.2.5
-Microsoft.AspNet.WebApi.SelfHost 5.2.6
-Microsoft.Net.Http 2.2.29

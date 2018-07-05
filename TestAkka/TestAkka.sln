@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaConsoleWindowsService", "AkkaConsoleWindowsService\AkkaConsoleWindowsService.csproj", "{DB8279B2-7ACF-40B2-9D5A-8650BFC3826E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaConsoleWebApiSelfHosting", "AkkaConsoleWebApiSelfHosting\AkkaConsoleWebApiSelfHosting.csproj", "{31ED4E09-E392-49FD-83AD-7133DB2CFEDD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{DB8279B2-7ACF-40B2-9D5A-8650BFC3826E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB8279B2-7ACF-40B2-9D5A-8650BFC3826E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB8279B2-7ACF-40B2-9D5A-8650BFC3826E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31ED4E09-E392-49FD-83AD-7133DB2CFEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31ED4E09-E392-49FD-83AD-7133DB2CFEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31ED4E09-E392-49FD-83AD-7133DB2CFEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31ED4E09-E392-49FD-83AD-7133DB2CFEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
