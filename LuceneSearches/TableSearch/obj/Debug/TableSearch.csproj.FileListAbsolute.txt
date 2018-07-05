@@ -1,0 +1,11 @@
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\obj\Debug\TableSearch.csprojResolveAssemblyReference.cache
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\TableSearch.exe
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\TableSearch.pdb
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\Lucene.Net.dll
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\Newtonsoft.Json.dll
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\Lucene.Net.xml
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\Newtonsoft.Json.xml
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\obj\Debug\TableSearch.exe
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\obj\Debug\TableSearch.pdb
+C:\MyProgramWorkspace\dotnet\LuceneSearches\TableSearch\bin\Debug\Data\movies.json
